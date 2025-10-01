@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "孙俊峰"
 description              : "个人学术主页"
-repository               : "junf1831/junf1831.github.io"
+repository               : "junf1831.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1fplA0AAAAAJ"
-  email            : "tangj@hust.edu.cn"
+  email            : "junf1831@outlook.com"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
